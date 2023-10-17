@@ -1,4 +1,4 @@
-1)
+
 note : for "n" no.of cypress projects, install cypress "n" no.of times
 
 first time install cypress,
@@ -18,7 +18,6 @@ command   :  npm install
 "package.json"  file is showing all installed packages
 
 =========================================================================================
-2)
 if any problem occured in cypress installation,
 clear all previously installed cypress, then install latest cypress
 run below 3 commands,
@@ -28,7 +27,6 @@ command 2  (to install latest cypress version ) :  npx cypress install
 command 3 (to initiate cypress)      :     npm init
 
 ===========================================================================================
-3)
 cypress-xpath  (external pluggin)   :
 command to install   :  npm install -D cypress-xpath
 
