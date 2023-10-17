@@ -33,7 +33,8 @@ command to install   :  npm install -D cypress-xpath
 add      require('cypress-xpath');      statement in       "project_folder\cypress\support\e2e.js"     file
 
 
-https://m.youtube.com/@swavidhacy/about
+https://m.youtube.com/@swavidhacy
+https://www.whatsapp.com/channel/0029VaAlQp2Bfxnzn6GsnZ1j
 
 ### Hi there 👋
 
