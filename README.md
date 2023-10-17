@@ -17,7 +17,7 @@ optional  : to remove or add pluggins based on "package.json" file
 command   :  npm install 
 "package.json"  file is showing all installed packages
 
-=========================================================================================
+=====================================================================================
 if any problem occured in cypress installation,
 clear all previously installed cypress, then install latest cypress
 run below 3 commands,
@@ -26,7 +26,7 @@ command 1 (to clear all previously installed cypress)  :  npx cypress cache clea
 command 2  (to install latest cypress version ) :  npx cypress install
 command 3 (to initiate cypress)      :     npm init
 
-===========================================================================================
+======================================================================================
 cypress-xpath  (external pluggin)   :
 command to install   :  npm install -D cypress-xpath
 
