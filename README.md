@@ -4,6 +4,8 @@ https://youtube.com/@swavidhacy/videos
 
 https://www.whatsapp.com/channel/0029VaAlQp2Bfxnzn6GsnZ1j
 
+https://in.pinterest.com/swavidha
+
 ### Hi there 👋
 
 <!--
