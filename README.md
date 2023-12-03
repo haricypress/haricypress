@@ -5,7 +5,7 @@ https://youtube.com/@swavidhacy/videos
 https://www.whatsapp.com/channel/0029VaAlQp2Bfxnzn6GsnZ1j
 
 instagram telugu poems
-https://instagram.com/hari.kishore.poet
+https://www.instagram.com/hari.kishore.poet/reels
 
 
 ### Hi there 👋
