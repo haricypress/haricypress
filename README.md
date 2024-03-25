@@ -1,8 +1,6 @@
 
-youtube channel - cypress telugu
-https://www.youtube.com/@harikishorepoet/videos
 
-youtube #tag - cypress telugu
+youtube #tag
 https://www.youtube.com/hashtag/harikishorepoet
 
 instagram - telugu poems
